@@ -21,3 +21,5 @@ https://snew430.github.io/Cityscope/
 ## Contribution
 
 Made with ♡ by Chris Hailey, Lucas Rodgers, Luke Granered, and Sean New
+
+:)
